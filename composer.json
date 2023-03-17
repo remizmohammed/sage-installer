@@ -1,5 +1,6 @@
 {
-  "name": "roots/sage-installer",
+  "name": "remizmohammed/sage-installer",
+  "version": "1.0.0",
   "description": "Sage starter theme installer",
   "keywords": [
     "sage",
